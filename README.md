@@ -1,20 +1,20 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Oi! Me chamo Dayvison,tenho 22 anos, sou formado em <strong>AnÃ¡lise e Desenvolvimento de Sistemas</strong>.<br>
+  Oi! Me chamo Dayvison,tenho 22 anos, sou formado em <strong>Análise e Desenvolvimento de Sistemas</strong>.<br>
   Trabalho com Teste de Software e estudo desenvolvimento web e mobile.
 </p>
 
 <p align="left">
-  ðŸ¦„ Linguagens: <strong>HTML, CSS, PHP, JAVA, DELPHI, DART</strong>
+  🦄 Linguagens: <strong>HTML, CSS, PHP, JAVA, DELPHI, DART</strong>
 </p>
 
 <p align="left">
-  ðŸ’¼ Ferramentas: <strong>Mantis, Tortoise SVN, JMeter, Laravel, Flutter</strong>
+  💼 Ferramentas: <strong>Mantis, Tortoise SVN, JMeter, Laravel, Flutter</strong>
 </p>
 
 <p align="left">
-  ðŸ’Œ Vamos trocar uma idÃ©ia? Entre em contato comigo: â¤µï¸
+  💌 Vamos trocar uma idéia? Entre em contato comigo: ⤵️
 </p>
 
 <p align="left">
