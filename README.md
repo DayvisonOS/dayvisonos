@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML, CSS, PHP, JAVA, DELPHI, DART</strong>
+  🦄 Linguagens: <strong>HTML, CSS, PHP, JAVA, DELPHI</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Mantis, Tortoise SVN, JMeter, Laravel, Flutter</strong>
+  💼 Ferramentas: <strong>Mantis,Test Link, Tortoise SVN, JMeter, Laravel</strong>
 </p>
 
 <p align="left">
