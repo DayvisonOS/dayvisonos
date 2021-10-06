@@ -1,16 +1,16 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Oi! Me chamo Dayvison,tenho 22 anos, sou formado em <strong>Análise e Desenvolvimento de Sistemas</strong>.<br>
-  Trabalho com Teste de Software e estudo desenvolvimento web e mobile.
+  Oi! Me chamo Dayvison,tenho 22 anos, sou formado em <strong>Análise e Desenvolvimento de Sistemas</strong> e Pós-graduando em <strong>Engenharia de Software com ênfase em Testes</strong>.<br>
+  Trabalho com Testes de Software na área de Automação Mobile.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML, CSS, PHP, JAVA, DELPHI</strong>
+  🦄 Linguagens: <strong>PYTHON, PHP, JAVA, DELPHI</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Mantis,Test Link, Tortoise SVN, JMeter, Laravel</strong>
+  💼 Ferramentas: <strong>Selenium, Jira, Mantis,Test Link, Tortoise SVN, JMeter, Laravel</strong>
 </p>
 
 <p align="left">
